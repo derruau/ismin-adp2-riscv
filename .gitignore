@@ -1,0 +1,7 @@
+# Fichiers contenant des logs
+**/sim/transcript
+**/sim/vsim.wlf
+
+# Les fichiers de compilation et de linking 
+**/firmware/*.o
+**/firmware/*.elf
