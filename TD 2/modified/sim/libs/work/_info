@@ -1,0 +1,246 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim
+valu
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 DXx4 work 9 RV32i_pkg 0 22 m6YGL;;_]Y@Qgeo4U7MhR3
+Z3 !s110 1768516628
+!i10b 1
+!s100 QlD[];oMAAbihQelzamaR3
+Z4 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I>Zm4]^EgfAd_S>ocAgG<z3
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+Z6 w1767125965
+8/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_alu.sv
+F/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_alu.sv
+!i122 2
+L0 11 42
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1768516628.000000
+!s107 /home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_alu.sv|
+!s90 -quiet|-work|work|+acc|-sv|/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_alu.sv|
+!i113 1
+Z9 o-quiet -work work +acc -sv
+Z10 tCvgOpt 0
+vregfile
+R1
+R3
+!i10b 1
+!s100 :d8G?8ok0IeX5J=kRcU5V3
+R4
+I;5i?Rjb^gfUJ60_BLYggK3
+R5
+S1
+R0
+R6
+8/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/regfile.sv
+F/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/regfile.sv
+!i122 1
+L0 11 33
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/regfile.sv|
+!s90 -quiet|-work|work|+acc|-sv|/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/regfile.sv|
+!i113 1
+R9
+R10
+vRV32i_controlpath
+R1
+R2
+R3
+!i10b 1
+!s100 g@Nb[DD:`_Y[Pk:jBDK>11
+R4
+I6aL<9cofI5`QKEe3R]lZH1
+R5
+S1
+R0
+w1767285230
+8/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_pipeline_controlpath.sv
+F/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_pipeline_controlpath.sv
+!i122 3
+L0 11 330
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_pipeline_controlpath.sv|
+!s90 -quiet|-work|work|+acc|-sv|/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_pipeline_controlpath.sv|
+!i113 1
+R9
+R10
+n@r@v32i_controlpath
+vRV32i_datapath
+R1
+R2
+R3
+!i10b 1
+!s100 __c9jW2U4A7<>f^<CRGlY1
+R4
+IB;FMc4h97k<C4VNH@A`gE3
+R5
+S1
+R0
+R6
+8/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_pipeline_datapath.sv
+F/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_pipeline_datapath.sv
+!i122 4
+L0 11 363
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_pipeline_datapath.sv|
+!s90 -quiet|-work|work|+acc|-sv|/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_pipeline_datapath.sv|
+!i113 1
+R9
+R10
+n@r@v32i_datapath
+XRV32i_pkg
+R1
+R3
+!i10b 1
+!s100 :Q`eAW2V_K;0dW`ez=?HT2
+R4
+Im6YGL;;_]Y@Qgeo4U7MhR3
+Vm6YGL;;_]Y@Qgeo4U7MhR3
+S1
+R0
+R6
+8/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_pkg.sv
+F/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_pkg.sv
+!i122 0
+L0 1 0
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_pkg.sv|
+!s90 -quiet|-work|work|+acc|-sv|/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_pkg.sv|
+!i113 1
+R9
+R10
+n@r@v32i_pkg
+vRV32i_soc
+R1
+R3
+!i10b 1
+!s100 _0RDlkc0fZmAi2hil:ZE=3
+R4
+Ih>[HV7`X0@P8@U;gYDnbi3
+R5
+S1
+R0
+w1767126086
+8/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_soc.sv
+F/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_soc.sv
+!i122 6
+L0 2 88
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_soc.sv|
+!s90 -quiet|-work|work|+acc|-sv|/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_soc.sv|
+!i113 1
+R9
+R10
+n@r@v32i_soc
+vRV32i_tb
+R1
+R3
+!i10b 1
+!s100 zC<<7Q[6BEdhJnA^z<0o83
+R4
+IeFm57][f@T;b8df;C`VA@1
+R5
+S1
+R0
+w1763934167
+8/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../tb/RV32i_tb.sv
+F/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../tb/RV32i_tb.sv
+!i122 8
+L0 12 91
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../tb/RV32i_tb.sv|
+!s90 -quiet|-work|work|+acc|-sv|/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../tb/RV32i_tb.sv|
+!i113 1
+R9
+R10
+n@r@v32i_tb
+vRV32i_top
+R1
+R2
+R3
+!i10b 1
+!s100 SG6A6`YaMaGI9__N5f>Q72
+R4
+I8DP5lFImMLG:[;bSbDYRW1
+R5
+S1
+R0
+w1767284680
+8/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_pipeline_top.sv
+F/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_pipeline_top.sv
+!i122 5
+L0 11 134
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_pipeline_top.sv|
+!s90 -quiet|-work|work|+acc|-sv|/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/RV32i_pipeline_top.sv|
+!i113 1
+R9
+R10
+n@r@v32i_top
+vwsync_mem
+R1
+R3
+!i10b 1
+!s100 c3lC1=UggYND@WO?`fHh>1
+R4
+I[ajzaCFE>O3UR[L;=N14S3
+R5
+S1
+R0
+R6
+8/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/wsync_mem.sv
+F/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/wsync_mem.sv
+!i122 7
+L0 11 71
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/wsync_mem.sv|
+!s90 -quiet|-work|work|+acc|-sv|/home/noam/Documents/dev/SystemVerilog/ISMIN/Semestre7/ArchitectureDesProcesseurs2/TD 2/modified/sim/../hdl_src/Q17/wsync_mem.sv|
+!i113 1
+R9
+R10
